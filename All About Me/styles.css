@@ -1,0 +1,48 @@
+body {
+    background-color: #75c9b6;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: #c88686;
+    font-size: 20px;
+    text-align: center;
+}
+h4 {
+    color: #bd90c1;
+    font-size: 20px;
+    text-align: center;
+}
+h5 {
+    color: teal;
+    font-size: 20px;
+    text-align: center;
+}
+h6 {
+    color: #3a3ea9;
+    font-size: 20px;
+    text-align: center;
+}
+hr {
+    border: 5px solid white;
+    border-radius: 15px;
+}
+li {
+    color: white;
+}
+p {
+    color: white;
+    text-align: center;
+}
+img {
+    border: solid 5px teal;
+    height: 371px;
+    width: 457px;
+    border-radius: 50%;
+}
