@@ -1,0 +1,39 @@
+p {
+    text-align: center;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+h3 {
+    text-align: center;
+    color: white;
+}
+body {
+    background-image: url("clover.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+a{
+    background-color: white;
+    border: none;
+    color: darkgreen;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+hr {
+    border: 5px solid green;
+    border-radius: 60%;
+}

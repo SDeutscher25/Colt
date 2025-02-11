@@ -1,0 +1,49 @@
+body{
+    background-color: lightpink
+}
+p{
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+a{
+    background-color: white;
+    border: none;
+    color: hotpink;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+hr {
+    border: 5px solid hotpink;
+    border-radius: 60%;
+}
+body {
+    background-image: url("valentinesbackground.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 5px white;
+    border-radius: 15%
+}

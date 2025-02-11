@@ -1,0 +1,60 @@
+body {
+    background-image: url("firstpage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%
+}
+p {
+    text-align: center;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+table {
+    width: 100%;
+    text-align: center;
+}
+a {
+    color: white;
+}
+table {
+    color: white;
+}
+ol {
+    color: white;
+}
+hr {
+    border: 5px solid #0749ff;
+    border-radius: 60%;
+}
+table,
+th,
+td {
+    border: 1px solid;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 5px white;
+    border-radius: 15%
+}
+a{
+    background-color: white;
+    border: none;
+    color: #0749ff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
