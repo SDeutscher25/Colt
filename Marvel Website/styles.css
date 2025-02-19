@@ -1,3 +1,71 @@
-.title {
-    color: green;
+body {
+    background-image: url("indexbackground.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: "Monospace", "Courier New", Courier, monospace;
+}
+a {
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-self: center;
+    padding: 10px 100px;
+    background-color: red;
+    text-decoration: dotted;
+    color: white;
+    margin-right: -79px;
+    margin-left: 200px;
+    font-family: "Monospace", "Courier New", Courier, monospace;
+}
+.p1 {
+    color: white;
+    background-color: red;
+    text-align: center;
+    border: 5px solid white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    font-family: "Monospace", "Courier New", Courier, monospace;
+}
+table {
+    color: white;
+    border: 5px white dashed;
+    text-align: center;
+    align-content: center;
+    width: 100%;
+    font-family: "Monospace", "Courier New", Courier, monospace;
+}
+table,
+th,
+td {
+    border: 1px dashed;
+}
+ol {
+    color: white;
+    margin-left: 44%;
+    font-family: "Monospace", "Courier New", Courier, monospace;
+}
+hr {
+    border: 5px solid red;
+    border-radius: 60%;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+    width: 280px;
+    border: 5px solid white;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
