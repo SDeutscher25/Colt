@@ -1,0 +1,60 @@
+.section {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+    gap: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 324 ;
+    font-style: normal;
+}
+
+.grid-container > div {
+    background-color: lightblue;
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+}
+
+.item1 {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.item2 {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.item3 {
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.item4 {
+    grid-column: 4;
+    grid-row: 1;
+}
+
+img {
+    border: 5px solid white;
+}
+
+section {
+    background-image: url("seattle.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: auto; 
+    text-align: left;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: 54px;
+    font-weight: 740 ;
+    font-style: normal;
+    font-size: 25px;
+    height: 450px;
+    padding-left: 4px;
+    padding-top: -7px;
+}
