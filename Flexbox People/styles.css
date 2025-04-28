@@ -1,0 +1,64 @@
+.title {
+    background-image: url("actual background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: auto;
+    text-align: left;
+    height: 350px;
+    padding-left: 36px;
+    padding-top: 4px;
+    font-family: "Princess Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 34px;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+h1 {
+    font-family: "Princess Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.div1 {
+    background-color: hotpink;
+    text-align: center;
+}
+.div2 {
+    background-color: deeppink;
+    text-align: center;
+}
+.div3 {
+    background-color: lightpink;
+    text-align: center;
+}
+.title2 {
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: auto;
+    height: 78px;
+    padding-left: 36px;
+    padding-top: -3px;
+    font-family: "Princess Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    text-align: center;
+}
+.flex-container2 {
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    background-color: #ff8a8a;
+    color: white;
+    text-align: center;
+    font-family: "Princess Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
