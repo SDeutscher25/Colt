@@ -1,0 +1,90 @@
+.heading1 {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: pink;
+    padding: 5px;
+    border: 5px solid hotpink;
+}
+.heading2 {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: pink;
+    padding: 2.5px;
+    border: 5px solid hotpink;
+    margin: 100px;
+    margin-top: 16px;
+}
+.trending {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: pink;
+    padding: 5px;
+    border: 5px solid hotpink;
+}
+body {
+    background-image: url(background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.div1 {
+    border: 5px solid hotpink;
+}
+.div2 {
+    border: 5px solid hotpink;
+}
+.div3 {
+    border: 5px solid hotpink;
+}
+a {
+    background-color: pink;
+    padding: 5px;
+    color: white;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 5px solid hotpink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.AboutUs {
+    background-color: pink;
+    padding: 5px;
+    color: white;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 5px solid hotpink;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.title2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: pink;
+    padding: 5px;
+    border: 5px solid hotpink;
+}
