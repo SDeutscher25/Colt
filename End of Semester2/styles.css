@@ -1,0 +1,73 @@
+.title1 {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: mediumaquamarine;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    border: 5px solid teal;
+    margin: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body {
+    background-image: url(ocean.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.title2 {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: mediumaquamarine;
+    text-align: center;
+    color: white;
+    border: 5px solid teal;
+    margin: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Items {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: mediumaquamarine;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+}
+img {
+    height: 200px;
+    width: 175px;
+}
+.France {
+    border: 5px solid teal;
+    padding: 20px;
+}
+.South {
+    border: 5px solid teal;
+    padding: 20px;
+}
+.AustNewZ {
+    border: 5px solid teal;
+    padding: 20px;
+}
+.Button {
+    border: 5px solid teal;
+}
+.Link {
+    background-color: mediumaquamarine;
+    border: 5px solid teal;
+    color: white;
+    text-align: center;
+    margin: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

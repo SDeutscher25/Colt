@@ -1,0 +1,32 @@
+body {
+    background-image: url(ocean.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.Link {
+    background-color: mediumaquamarine;
+    border: 5px solid teal;
+    color: white;
+    text-align: center;
+    margin: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.OurCompany {
+    font-family: "Limelight", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: mediumaquamarine;
+    text-align: center;
+    color: white;
+    border: 5px solid teal;
+    margin: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
